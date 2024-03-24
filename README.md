@@ -1,6 +1,7 @@
 # Tic-Tac-Toe
 Tic-Tac-Toe game implemented in Python using Object-Oriented Programming (OOP) principles for a structured and efficient approach.
 
+
 ## Class Descriptions
 
 This section provides a breakdown of the key classes used in the Tic-Tac-Toe game:
