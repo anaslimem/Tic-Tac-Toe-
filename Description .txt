@@ -1,0 +1,7 @@
+1-Run the app
+2-Main menu 
+3-Game start or Quit the game 
+4-Player 1 name, symbol and Player 2 name, symbol
+5-Board is displayed
+6-Game loops until win or draw 
+7-Restart game or Quit game
